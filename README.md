@@ -4,7 +4,7 @@ Version: 1.0.0
 Last Updated: June 8 2026  
 File Type: Windows Batch File (.bat)
 
-This is a Windows Batch script (.bat file) that performs [briefly describe what your batch file does].  
+This is a Windows Batch script (.bat file)   
 It is designed as a practical example for learning Windows batch scripting, command-line automation, and system administration concepts.
 
 Educational Purpose Only
