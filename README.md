@@ -27,7 +27,7 @@ This script is **NOT** intended for production use, commercial applications, or 
  No Warranty
 The script is provided "AS IS", without any warranties of any kind — expressed or implied. This includes (but is not limited to) warranties of merchantability, fitness for a particular purpose, accuracy, reliability, or non-infringement.
  No Liability
-The author is not responsible or liable** for any damages, issues, or consequences that may arise from using, modifying, or distributing this script.
+The author is not responsible or liable** for any damages, issues, or consequences that may arise from using, modifying, or distributing this script or using it for malicious intent.
 
 By using this batch file, you agree that:
 - You use it entirely at your own risk.
